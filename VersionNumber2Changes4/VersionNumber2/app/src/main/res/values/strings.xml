@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">VersionNumber2</string>
+    <string name="version">Version Number 2</string>
+    <string name="saved_image">Saved Images</string>
+    <string name="saveimg">Save Image</string>
+    <string name="title">Title:</string>
+    <string name="year">Year:</string>
+    <string name="actor">Actor:</string>
+    <string name="run_time">RunTime:</string>
+    <string name="plot">Plot:</string>
+    <string name="rating_list">Rating List</string>
+    <string name="delete_alert">Delete</string>
+    <string name="delete_message">Delete the Image and data</string>
+    <string name="yes">Yes</string>
+    <string name="item_deleted_message">Data Deleted</string>
+    <string name="no">No</string>
+</resources>

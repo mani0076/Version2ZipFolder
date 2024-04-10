@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">VersionNumber2</string>
+    <string name="version">Version Number 2</string>
+    <string name="saved_image">Saved Images</string>
+</resources>

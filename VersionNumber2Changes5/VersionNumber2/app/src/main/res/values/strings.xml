@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">VersionNumber2</string>
+    <string name="version">Version Number 2</string>
+    <string name="saved_image">Saved Images</string>
+    <string name="saveimg">Save Image</string>
+    <string name="title">Title:</string>
+    <string name="year">Year:</string>
+    <string name="actor">Actor:</string>
+    <string name="run_time">RunTime:</string>
+    <string name="plot">Plot:</string>
+    <string name="rating_list">Rating List</string>
+    <string name="delete_alert">Delete</string>
+    <string name="delete_message">Delete the Image and data</string>
+    <string name="yes">Yes</string>
+    <string name="item_deleted_message">Data Deleted</string>
+    <string name="no">No</string>
+    <string name="instructions">Instruction</string>
+    <string name="movie_instruction">1. Start by searching for movie on Film Screen by entering your search text.\n2. Once you click on the search button, a list of items matching your search will be displayed.\n3. Click on any item in the list to view its details.\n4. From the details page, you have the option to save the image.\n5. Saved images can be accessed by clicking on the \'Saved Images\' button on the search screen, where you can also delete saved items.</string>
+    <string name="language">Language</string>
+    <string name="choose_language">Choose Language</string>
+    <string name="british_english">British Language</string>
+    <string name="american_english">American Language</string>
+
+</resources>

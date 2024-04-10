@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">VersionNumber2</string>
+    <string name="version">Version Number 2</string>
+    <string name="saved_image">Saved Images</string>
+    <string name="saveimg">Save Image</string>
+    <string name="title">Title:</string>
+    <string name="year">Year:</string>
+    <string name="actor">Actor:</string>
+    <string name="run_time">RunTime:</string>
+    <string name="plot">Plot:</string>
+    <string name="rating_list">Rating List</string>
+</resources>
